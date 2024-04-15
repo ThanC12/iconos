@@ -1,0 +1,36 @@
+/*what*/
+body{
+    background: #ab7272;
+}
+body h1{
+    
+    background-color: #ab7272;
+    text-align: center;
+
+}
+   div{
+  
+    text-align: center;
+    color: rgb(37, 211, 102);
+    font-size: 200px;
+    
+    
+
+   }
+
+    div .iconos{
+    color: rgb(63, 114, 155);
+    font-size: 200px;
+    text-align: right;
+
+   }
+    div .iconos2{
+        color: rgb(155, 63, 66);
+        font-size: 200px;
+        text-align: left;
+
+    }
+    
+
+  
+
